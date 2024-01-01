@@ -12,7 +12,7 @@ export default {
         "secondary":"#555",
         "primaryBG":"#FCFCFC"
       },
-
+      
     },
   },
   plugins: [require("daisyui")],
